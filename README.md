@@ -1,2 +1,2 @@
 # INFO6150
-A repository to contain all information related to INFO6150
+A repository to contain deliverables for INFO6150 assignment 1
